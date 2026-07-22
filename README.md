@@ -257,9 +257,3 @@ The system includes a multi-layer validator to reject non-grape-leaf images:
 4. Safitri et al. (2024). *Klasifikasi Penyakit Daun Anggur Berbasis Citra Menggunakan Metode K-Nearest Neighbors*.
 
 ---
-
-## License
-
-This research is funded by the **Associate Professor Acceleration Research (PPGB)** scheme of Politeknik Negeri Padang.
-
-© 2026 — PPGB Research Team | Politeknik Negeri Padang
