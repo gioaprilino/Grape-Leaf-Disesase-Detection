@@ -1,10 +1,6 @@
 # 🍇 Grape Leaf Disease Detection — TD + KNN
 
 **Smart Farming System for Grape Leaf Disease Detection** using **Tangential Direction (TD)** for contour-based feature extraction and **K-Nearest Neighbors (KNN)** as classifier.
-
-> Associate Professor Acceleration Research (PPGB) — Politeknik Negeri Padang  
-> Lead Researcher: Rahmat Hidayat, S.T, M.Sc.IT., Ph.D
-
 ---
 
 ## Table of Contents
