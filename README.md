@@ -206,6 +206,7 @@ Copy the code from `notebooks/01_eksperimen_td_knn.ipynb` into a Kaggle Notebook
 | Precision (weighted) | — 0.7559 |
 | Recall (weighted) | — 0.7459 |
 | F1-Score (weighted) | — 0.7494 |
+| CV 5-Fold | — 0.8184 +/- 0.0143 |
 
 ### Confusion Matrix
 
