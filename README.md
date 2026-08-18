@@ -216,6 +216,10 @@ Copy the code from `notebooks/01_eksperimen_td_knn.ipynb` into a Kaggle Notebook
 
 ![Learning Curves](results/learning_curves.png)
 
+### 5-Fold- Cross-Validation Scores
+
+![5-Fold- Cross-Validation Scores](results/five-fold.png)
+
 ### Classification Report
 
 ![Classification Report](results/classification_report.png)
