@@ -202,11 +202,10 @@ Copy the code from `notebooks/01_eksperimen_td_knn.ipynb` into a Kaggle Notebook
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | — (pending) |
-| Precision (weighted) | — (pending) |
-| Recall (weighted) | — (pending) |
-| F1-Score (weighted) | — (pending) |
-| 5-Fold CV | — (pending) |
+| Accuracy | — 0.7459 |
+| Precision (weighted) | — 0.7559 |
+| Recall (weighted) | — 0.7459 |
+| F1-Score (weighted) | — 0.7494 |
 
 ### Confusion Matrix
 
